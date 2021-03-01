@@ -8,7 +8,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/HotarouTakahashi/Termux-Whatsapp-Bot-English
+> git clone https://github.com/fazilvk786/waenbot
 
 ```
 
@@ -17,7 +17,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd Termux-Whatsapp-Bot-English
+> cd waenbot
 > bash install.sh
 ```
 
